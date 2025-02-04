@@ -1,9 +1,9 @@
 <!--
 ## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 ## 💫 Sobre mim:
-- Me chamo Matheus Pergoli, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
-- Tenho foco em atuação no desenvolvimento Frontend com Javascript mas também possuo conhecimento Fullstack.
-🌱 Atualmente estou me aperfeiçoando em Next, React, Typescript, Tailwind, Node, Banco de dados e Testes
+- Me chamo Daniel Friedrich, tenho 20 anos e sou estudante de Ciências da Computação.
+- Tenho foco em atuação no desenvolvimento Frontend com Javascript.
+🌱 Atualmente estou me aperfeiçoando no Front-End e principalmente em JavaScript.
 -->
 
 <br />
