@@ -39,7 +39,7 @@
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Github+Stats)](https://git.io/typing-svg)
-<p>
+<p align="center">
   <img align="center" width="50%" src="https://streak-stats.demolab.com/?user=danixz02&theme=dark" />
 </p>
 
