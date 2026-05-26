@@ -40,7 +40,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Github+Stats)](https://git.io/typing-svg)
 <p>
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=danixz02&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img align="center" width="50%" src="https://streak-stats.demolab.com/?user=danixz02&theme=dark" />
 </p>
 
